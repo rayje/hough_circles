@@ -1,0 +1,11 @@
+*.mp4
+*.avi
+*.jpg
+CMakeFiles/**
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+ballDetectVideo
+ballDetection
+tracking
